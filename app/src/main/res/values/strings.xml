@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">רדיו כאן</string>
+
+    <!-- Widget -->
+    <string name="widget_name">רדיו כאן</string>
+    <string name="widget_description">ווידג\'ט להאזנה לתחנות רדיו כאן</string>
+
+    <!-- Controls -->
+    <string name="play">נגן</string>
+    <string name="stop">עצור</string>
+
+    <!-- Configuration -->
+    <string name="config_title">בחר תחנת רדיו</string>
+    <string name="config_description">בחר את התחנה שתוצג בווידג\'ט</string>
+    <string name="save">שמור</string>
+    <string name="cancel">ביטול</string>
+
+    <!-- Notification -->
+    <string name="notification_channel_name">השמעת רדיו</string>
+    <string name="notification_channel_description">בקרות להשמעת רדיו</string>
+
+    <!-- Main Activity -->
+    <string name="main_instructions">להוספת הווידג\'ט:\n\n1. לחץ לחיצה ארוכה על מסך הבית\n2. בחר \"ווידג\'טים\"\n3. חפש את \"רדיו כאן\"\n4. גרור את הווידג\'ט למסך הבית\n5. בחר תחנת רדיו</string>
+
+    <!-- Permissions -->
+    <string name="permission_required_title">הרשאה נדרשת</string>
+    <string name="permission_required_message">אפליקציה זו דורשת הרשאת התראות כדי להציג בקרות השמעה בסרגל ההתראות</string>
+    <string name="ok">אישור</string>
+</resources>
